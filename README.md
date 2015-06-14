@@ -10,5 +10,5 @@ used it in multiple solutions to great effect, this is the module I wish I had b
 
 - Require as few as possible changes to an existing system's data structure for integration
 - Get the module working first with a single-file solution, allowing a mutli-file solution to come later
-- Allow developers to decide on whatever parameter passing scheme they prefer
+- Don't avoid the use of readability increasing and code duplication avoiding custom functions
 - Provide scripts for account creation, deletion, enabling, disabling, password change and privilege set change
